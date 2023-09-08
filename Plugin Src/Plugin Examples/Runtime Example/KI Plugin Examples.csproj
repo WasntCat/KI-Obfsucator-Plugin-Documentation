@@ -31,12 +31,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="dnlib">
-      <HintPath>..\KI\bin\Debug\dnlib.dll</HintPath>
-    </Reference>
-    <Reference Include="KI">
-      <HintPath>..\KI\bin\Debug\KI.exe</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
